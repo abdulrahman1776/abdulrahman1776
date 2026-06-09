@@ -65,4 +65,5 @@ The goal: own a feature end to end — from the UI down to how it gets deployed 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abdulrahman-eta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-6a6658380/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulrahman1776)
-[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahman06557@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=abdulrahman06557@gmail.com)
+
