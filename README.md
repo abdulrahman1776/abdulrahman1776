@@ -13,6 +13,7 @@ Full Stack Developer. I build fast, type-safe web apps and care about the detail
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
+
 ---
 
 ### What I do
