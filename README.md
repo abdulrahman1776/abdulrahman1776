@@ -40,9 +40,19 @@ Boring and predictable beats clever and unreadable.
 
 ---
 
-### Now
+### Where I'm headed
 
-Going deeper on Next.js architecture, resilient API design, and frontend structure that scales.
+I'm a frontend-strong full stack dev moving deeper toward the infrastructure side. What I'm actively learning:
+
+- **Scalable backends** — designing APIs and data layers that hold up as traffic grows, not just demos
+- **DevOps** — Docker, containerized deploys, and treating infrastructure as something you can version and reproduce
+- **CI/CD** — automated pipelines that test, build, and ship on every push, so releases are boring and safe instead of scary
+
+The goal: own a feature end to end — from the UI down to how it gets deployed and monitored.
+
+![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624)
 
 ---
 
