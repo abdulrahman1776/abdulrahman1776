@@ -1,63 +1,54 @@
-# Hi there 🖐️ I'm Abdul Rahman
+# Abdul Rahman
 
-**Full Stack Developer** with over a year of real-world experience building scalable, maintainable web applications. I care deeply about clean UI, predictable state, and optimized performance.
+Full Stack Developer. I build fast, type-safe web apps and care about the details most people skip.
 
----
-
-## 🚀 What I Actually Do
-
-* **Frontend Architecture:** Build production-grade, type-safe React & Next.js (App Router) applications.
-* **UI/UX Engineering:** Design clean, responsive, and modern user interfaces using Tailwind CSS.
-* **State & Async Management:** Manage complex data-fetching states and async flows using TanStack Query.
-* **Backend & APIs:** Design robust REST APIs using Node.js, Express, and databases like PostgreSQL & MongoDB.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=83CD29)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 ---
 
-## 🛠️ Tech Stack
+### What I do
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css)](https://skillicons.dev)
+I build production web apps with a focus on clean UI, predictable state, and real performance — code that's still easy to work with six months later, not just code that runs today.
 
-### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,auth0)](https://skillicons.dev)
+**Frontend** — Type-safe React & Next.js (App Router), responsive UI with Tailwind, complex async flows with TanStack Query.
 
-### Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker)](https://skillicons.dev)
+**Backend** — REST APIs with Node.js & Express, backed by PostgreSQL and MongoDB.
 
 ---
 
-## 🎯 Principles I Follow
+### How I think about code
 
-❌ **What I Avoid:**
-* Clever code nobody can read 6 months later.
-* State that lives in three different places at once.
-* "It works on my machine" as a finish line.
+Boring and predictable beats clever and unreadable.
 
-✅ **What I Practice:**
-* Boring, predictable code that's easy to delete.
-* Components small enough to reuse without a second thought.
-* Strict TypeScript types that catch mistakes before users do.
+- Small components, easy to reuse — and easy to delete
+- Strict TypeScript that catches bugs before users do
+- "It works on my machine" is not a finish line
 
 ---
 
-## 👨‍💻 Featured Work
+### Selected work
 
-* **Blistro** — Auth-based Admin Panels
-* **Varplant** — Scalable Backend Solutions
-* *Note: Most of my production projects are private or client-owned.*
+**Blistro** — Auth-based admin panels
+**Varplant** — Scalable backend solutions
 
----
-
-## ⚙️ Currently Improving
-* Advanced Next.js architecture & performance optimization.
-* Designing better, more resilient API contracts.
-* Scalable frontend folder structures.
+*Most production projects are private or client-owned.*
 
 ---
 
-## 🤝 Let's Connect
+### Now
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrahman1776)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-6a6658380/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahman06557@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrahman-eta.vercel.app/)
+Going deeper on Next.js architecture, resilient API design, and frontend structure that scales.
+
+---
+
+### Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abdulrahman-eta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-6a6658380/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulrahman1776)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahman06557@gmail.com)
