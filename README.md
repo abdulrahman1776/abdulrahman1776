@@ -49,7 +49,7 @@ The projects I built when I was new to the field — figuring things out, breaki
 
 - **[Buggti](https://buggti.vercel.app/)** — an early full build where I learned to ship a real, working app end to end
 - **[Forever](https://forever-place.vercel.app/)** — a storefront project where I got hands-on with layouts, state, and product flows
-- **[PDF Hub](https://pdfhub-rho.vercel.app/)** — a tool-style app for working with PDFs, built to solve a problem I actually had
+- **[PDF Hub](https://pdfh)** — a tool-style app for working with PDFs, built to solve a problem I actually had
 
 ---
 
