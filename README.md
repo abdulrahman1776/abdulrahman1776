@@ -12,7 +12,6 @@ Full Stack Developer. I build fast, type-safe web apps and care about the detail
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=flat-square&logo=mongodb&logoColor=47A248)
 
-
 ---
 
 ### What I do
@@ -44,6 +43,16 @@ Boring and predictable beats clever and unreadable.
 
 ---
 
+### Where it started
+
+The projects I built when I was new to the field — figuring things out, breaking stuff, and learning by shipping. They're not perfect, and that's the point: they're where the habits I have today came from.
+
+- **[Buggti](https://buggti.vercel.app/)** — an early full build where I learned to ship a real, working app end to end
+- **[Forever](https://forever-place.vercel.app/)** — a storefront project where I got hands-on with layouts, state, and product flows
+- **[PDF Hub](https://pdfhub-rho.vercel.app/)** — a tool-style app for working with PDFs, built to solve a problem I actually had
+
+---
+
 ### Where I'm headed
 
 I'm a frontend-strong full stack dev moving deeper toward the infrastructure side. What I'm actively learning:
@@ -66,4 +75,3 @@ The goal: own a feature end to end — from the UI down to how it gets deployed 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-6a6658380/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulrahman1776)
 [![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=abdulrahman06557@gmail.com)
-
