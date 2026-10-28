@@ -25,6 +25,6 @@ The goal: understand the entire lifecycle of a software product, from writing co
 
 <p>
   <a href="https://www.linkedin.com/in/heyrehmandev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" alt="LinkedIn: in/heyrehmandev" height="60"></picture></a>&nbsp;
-  <a href="mailto:abdulrahman.ar07x@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" alt="Email: abdulrahman.ar07x@gmail.com" height="60"></picture></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&amp;to=heyrehman001@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" alt="Email: heyrehman001@gmail.com" height="60"></picture></a>&nbsp;
   <a href="https://www.heyrehman.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" alt="Portfolio: heyrehman.dev" height="60"></picture></a>
 </p>
